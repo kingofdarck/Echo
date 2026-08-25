@@ -1,0 +1,12 @@
+{
+  "name": "tg-mini-app-backend",
+  "version": "1.0.0",
+  "description": "Simple backend for Telegram Mini App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
